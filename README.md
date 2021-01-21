@@ -4,7 +4,7 @@ A collection of my preferred dotfiles and system dependencies intended to bootst
 
 ## download from github
 
-`git clone git@github.com:itwalton/dotfiles.git`
+`git clone git@github.com:fuqua/dotfiles.git`
 
 ### install everything
 
